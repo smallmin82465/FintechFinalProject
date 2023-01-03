@@ -2,8 +2,9 @@
 """
 Created on Wed Dec 21 15:33:40 2022
 
-@author: User
+@author: Smallmin
 """
+#尚未計算股息
 #if need run on streamlit cloud need use requestment.txt
 import streamlit as st
 import pandas as pd
