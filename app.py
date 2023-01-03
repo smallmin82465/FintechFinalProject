@@ -171,6 +171,8 @@ if button:
     ax.plot(x, y)
     for i, txt in enumerate(tickers):
         ax.annotate(txt, (x[i], y[i]))
+    plt.xlabel('Beta')
+    plt.ylabel('Weights')
     st.pyplot()
     for i in range(num_months):
         portfolio_value.append(portfolio_value[-1] * (1 + portfolio_return) + monthly_investment)
