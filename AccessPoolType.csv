@@ -1,0 +1,17 @@
+﻿Tickers,Very_Aggressive,Aggressive,Moderat,Conservative,Very_Conservative,Description,Category
+FLOT,6.17%,7.00%,8.00%,8.00%,9.00%,iShares Floating Rate Bond ETF,Ultrashort Bond
+PVI,4.97%,5.00%,6.00%,6.00%,9.00%,Invesco VRDO Tax-Free ETF,Muni National Short
+BLV,1.00%,3.00%,4.00%,8.00%,9.00%,Vanguard Long-Term Bond ETF,Long-Term Bond
+TIP,1.00%,5.00%,8.00%,8.00%,13.00%,iShares TIPS Bond ETF,Inflation-Protected Bond
+AGG,1.00%,2.00%,2.00%,2.00%,9.00%,iShares Core US Aggregate Bond ETF,Intermediate Core Bond
+UUP,10.58%,10.00%,9.00%,8.00%,5.00%,Invesco DB US Dollar Bullish,Miscellaneous
+SCHD,17.00%,17.00%,14.00%,13.00%,18.00%,Schwab US Dividend Equity ETF,Large Value
+VDE,17.00%,12.00%,8.00%,0.50%,1.00%,Vanguard Energy ETF,Equity Energy
+VTV,15.93%,13.00%,11.00%,11.00%,5.00%,Vanguard Value ETF,Large Value
+XSD,12.67%,10.00%,8.00%,8.00%,10.00%,SPDR S&P Semiconductor ETF,Technology
+VEU,3.70%,3.00%,2.00%,1.00%,0.50%,Vanguard FTSE All-Wld ex-US ETF,Foreign Large Blend
+VOO,3.42%,4.00%,5.00%,3.00%,1.00%,Vanguard S&P 500 ETF,Large Blend
+SCHA,1.00%,1.00%,1.00%,0.50%,0.50%,Schwab US Small-Cap ETF,Small Blend
+VTI,1.90%,3.00%,5.00%,7.00%,2.00%,Vanguard Total Stock Market ETF,Large Value
+AOA,1.66%,3.00%,6.00%,15.00%,6.00%,iShares Core Aggressive Allocation ETF,Global Allocation
+VNQ,1.00%,2.00%,3.00%,1.00%,2.00%,Vanguard Real Estate ETF,Real Estate
